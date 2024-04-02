@@ -30,12 +30,17 @@ npm run dev
 
 # pnpm
 pnpm run dev
+# pnpm 开发者运行
+pnpm dev -o
 
 # yarn
 yarn dev
 
 # bun
 bun run dev
+
+
+
 ```
 
 ## Production
